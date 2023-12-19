@@ -1,0 +1,15 @@
+C:\Schule\M320\Tanzschuleverwaltungssystem\Tanzschuleverwaltungssystem\obj\Debug\net8.0\Tanzschuleverwaltungssystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Schule\M320\Tanzschuleverwaltungssystem\Tanzschuleverwaltungssystem\obj\Debug\net8.0\Tanzschuleverwaltungssystem.AssemblyInfoInputs.cache
+C:\Schule\M320\Tanzschuleverwaltungssystem\Tanzschuleverwaltungssystem\obj\Debug\net8.0\Tanzschuleverwaltungssystem.AssemblyInfo.cs
+C:\Schule\M320\Tanzschuleverwaltungssystem\Tanzschuleverwaltungssystem\obj\Debug\net8.0\Tanzschuleverwaltungssystem.csproj.CoreCompileInputs.cache
+C:\Schule\M320\Tanzschuleverwaltungssystem\Tanzschuleverwaltungssystem\obj\Debug\net8.0\Tanzschuleverwaltungssystem.sourcelink.json
+C:\Schule\M320\Tanzschuleverwaltungssystem\Tanzschuleverwaltungssystem\bin\Debug\net8.0\Tanzschuleverwaltungssystem.exe
+C:\Schule\M320\Tanzschuleverwaltungssystem\Tanzschuleverwaltungssystem\bin\Debug\net8.0\Tanzschuleverwaltungssystem.deps.json
+C:\Schule\M320\Tanzschuleverwaltungssystem\Tanzschuleverwaltungssystem\bin\Debug\net8.0\Tanzschuleverwaltungssystem.runtimeconfig.json
+C:\Schule\M320\Tanzschuleverwaltungssystem\Tanzschuleverwaltungssystem\bin\Debug\net8.0\Tanzschuleverwaltungssystem.dll
+C:\Schule\M320\Tanzschuleverwaltungssystem\Tanzschuleverwaltungssystem\bin\Debug\net8.0\Tanzschuleverwaltungssystem.pdb
+C:\Schule\M320\Tanzschuleverwaltungssystem\Tanzschuleverwaltungssystem\obj\Debug\net8.0\Tanzschuleverwaltungssystem.dll
+C:\Schule\M320\Tanzschuleverwaltungssystem\Tanzschuleverwaltungssystem\obj\Debug\net8.0\refint\Tanzschuleverwaltungssystem.dll
+C:\Schule\M320\Tanzschuleverwaltungssystem\Tanzschuleverwaltungssystem\obj\Debug\net8.0\Tanzschuleverwaltungssystem.pdb
+C:\Schule\M320\Tanzschuleverwaltungssystem\Tanzschuleverwaltungssystem\obj\Debug\net8.0\Tanzschuleverwaltungssystem.genruntimeconfig.cache
+C:\Schule\M320\Tanzschuleverwaltungssystem\Tanzschuleverwaltungssystem\obj\Debug\net8.0\ref\Tanzschuleverwaltungssystem.dll
